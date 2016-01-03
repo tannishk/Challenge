@@ -1,0 +1,7 @@
+void name(String name)
+{
+  Random ra = new Random
+  int number = ra.nextInt(10)+6;
+  String s = name +" "+String.valueOf(number);
+  return s;
+}
