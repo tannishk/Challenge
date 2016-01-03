@@ -1,4 +1,4 @@
-void name(String name)
+String name(String name)
 {
   Random ra = new Random
   int number = ra.nextInt(10)+6;
